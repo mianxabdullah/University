@@ -1,0 +1,1 @@
+this is basically a string class which i made after learning the structure of built in c++ string class 
