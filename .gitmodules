@@ -4,3 +4,6 @@
 [submodule "3rd Semester/Discrete/Discrete-Calculator"]
 	path = 3rd Semester/Discrete/Discrete-Calculator
 	url = https://github.com/mianxabdullah/Discrete-Calculator
+[submodule "3rd Semester/IDS/Cricket Project"]
+	path = 3rd Semester/IDS/Cricket Project
+	url = https://github.com/mianxabdullah/Cricket_Batsman_Stats_Prediction
