@@ -7,3 +7,6 @@
 [submodule "3rd Semester/IDS/Cricket Project"]
 	path = 3rd Semester/IDS/Cricket Project
 	url = https://github.com/mianxabdullah/Cricket_Batsman_Stats_Prediction
+[submodule "3rd Semester/IDS/Fitness_Chatbot"]
+	path = 3rd Semester/IDS/Fitness_Chatbot
+	url = https://github.com/mianxabdullah/Fitness_Chatbot
