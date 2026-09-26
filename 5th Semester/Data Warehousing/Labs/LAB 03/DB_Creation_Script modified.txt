@@ -1,0 +1,51 @@
+-- Create Database
+CREATE DATABASE imtiaz_supermarket;
+USE imtiaz_supermarket;
+
+
+
+-- 1. Sales Table
+CREATE TABLE Sales (
+    transaction_id INT PRIMARY KEY,
+    date DATE,
+    product_id INT,
+    product_name VARCHAR(100),
+    category VARCHAR(50),
+    quantity INT,
+    price DECIMAL(12,2),
+    total_amount DECIMAL(12,2)
+);
+
+-- 2. Employee Table
+CREATE TABLE Employee (
+    employee_id INT PRIMARY KEY,
+    name VARCHAR(100),
+    department VARCHAR(50),
+    role VARCHAR(50),
+    hire_date DATE,
+    salary DECIMAL(12,2),
+    attendance_days INT
+);
+
+-- 3. Finance Table
+CREATE TABLE Finance (
+    transaction_id INT PRIMARY KEY,
+    date DATE,
+    type VARCHAR(20), -- Income / Expense
+    amount DECIMAL(12,2),
+    payment_method VARCHAR(50),
+    description VARCHAR(255)
+);
+
+-- 4. Inventory Table
+CREATE TABLE Inventory (
+    product_id INT PRIMARY KEY,
+    product_name VARCHAR(100),
+    category VARCHAR(50),
+    stock_quantity INT,
+    reorder_level INT,
+    last_restock_date DATE,
+    supplier VARCHAR(50),
+    purchase_price DECIMAL(12,2),
+    selling_price DECIMAL(12,2)
+);
