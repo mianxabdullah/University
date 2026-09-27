@@ -1,0 +1,646 @@
+transaction_id,date,product_id,product_name,category,quantity,price,total_amount
+T001,2025-11-30,P113,Sweater,Clothing,3,3500,10500
+T002,2025-11-27,P101,Shampoo,Grocery,8,300,2400
+T003,2025-11-28,P112,LED TV,Electronics,9,70000,630000
+T004,2025-11-30,P103,T-Shirt,Clothing,5,1200,6000
+T005,2025-11-29,P101,Shampoo,Grocery,9,300,2700
+T006,2025-11-30,P105,Rice Bag 10kg,Grocery,6,2500,15000
+T007,2025-11-25,P104,Laptop,Electronics,4,120000,480000
+T008,2025-11-30,P111,Headphones,Electronics,3,5000,15000
+T009,2025-11-29,P101,Shampoo,Grocery,8,300,2400
+T010,2025-11-25,P115,Cap,Clothing,10,700,7000
+T011,2025-11-30,P112,LED TV,Electronics,5,70000,350000
+T012,2025-11-28,P113,Sweater,Clothing,2,3500,7000
+T013,2025-11-27,P101,Shampoo,Grocery,3,300,900
+T014,2025-11-30,P112,LED TV,Electronics,9,70000,630000
+T015,2025-11-29,P103,T-Shirt,Clothing,4,1200,4800
+T016,2025-11-28,P105,Rice Bag 10kg,Grocery,1,2500,2500
+T017,2025-11-25,P114,Jacket,Clothing,1,8000,8000
+T018,2025-11-26,P111,Headphones,Electronics,8,5000,40000
+T019,2025-11-27,P110,Sugar 5kg,Grocery,6,600,3600
+T020,2025-11-29,P105,Rice Bag 10kg,Grocery,5,2500,12500
+T021,2025-11-25,P111,Headphones,Electronics,3,5000,15000
+T022,2025-11-26,P107,Microwave,Electronics,1,25000,25000
+T023,2025-11-25,P101,Shampoo,Grocery,2,300,600
+T024,2025-11-27,P111,Headphones,Electronics,1,5000,5000
+T025,2025-11-30,P106,Jeans,Clothing,9,2500,22500
+T026,2025-11-25,P113,Sweater,Clothing,1,3500,3500
+T027,2025-11-29,P114,Jacket,Clothing,3,8000,24000
+T028,2025-11-30,P101,Shampoo,Grocery,7,300,2100
+T029,2025-11-30,P113,Sweater,Clothing,7,3500,24500
+T030,2025-11-28,P107,Microwave,Electronics,1,25000,25000
+T031,2025-11-28,P110,Sugar 5kg,Grocery,10,600,6000
+T032,2025-11-28,P103,T-Shirt,Clothing,8,1200,9600
+T033,2025-11-28,P107,Microwave,Electronics,5,25000,125000
+T034,2025-11-28,P109,Cooking Oil 5L,Grocery,8,2500,20000
+T035,2025-11-25,P106,Jeans,Clothing,10,2500,25000
+T036,2025-11-25,P103,T-Shirt,Clothing,9,1200,10800
+T037,2025-11-26,P101,Shampoo,Grocery,2,300,600
+T038,2025-11-28,P114,Jacket,Clothing,7,8000,56000
+T039,2025-11-30,P109,Cooking Oil 5L,Grocery,1,2500,2500
+T040,2025-11-27,P111,Headphones,Electronics,6,5000,30000
+T041,2025-11-30,P114,Jacket,Clothing,1,8000,8000
+T042,2025-11-28,P106,Jeans,Clothing,8,2500,20000
+T043,2025-11-30,P114,Jacket,Clothing,8,8000,64000
+T044,2025-11-26,P114,Jacket,Clothing,7,8000,56000
+T045,2025-11-30,P103,T-Shirt,Clothing,7,1200,8400
+T046,2025-11-30,P113,Sweater,Clothing,10,3500,35000
+T047,2025-11-30,P113,Sweater,Clothing,7,3500,24500
+T048,2025-11-28,P114,Jacket,Clothing,1,8000,8000
+T049,2025-11-26,P114,Jacket,Clothing,9,8000,72000
+T050,2025-11-30,P113,Sweater,Clothing,2,3500,7000
+T051,2025-11-25,P102,Smartphone,Electronics,1,45000,45000
+T052,2025-11-27,P111,Headphones,Electronics,9,5000,45000
+T053,2025-11-28,P101,Shampoo,Grocery,2,300,600
+T054,2025-11-29,P114,Jacket,Clothing,7,8000,56000
+T055,2025-11-28,P113,Sweater,Clothing,8,3500,28000
+T056,2025-11-28,P103,T-Shirt,Clothing,2,1200,2400
+T057,2025-11-28,P114,Jacket,Clothing,3,8000,24000
+T058,2025-11-28,P110,Sugar 5kg,Grocery,1,600,600
+T059,2025-11-29,P115,Cap,Clothing,1,700,700
+T060,2025-11-25,P109,Cooking Oil 5L,Grocery,1,2500,2500
+T061,2025-11-26,P108,Bread,Grocery,8,200,1600
+T062,2025-11-29,P106,Jeans,Clothing,9,2500,22500
+T063,2025-11-28,P104,Laptop,Electronics,10,120000,1200000
+T064,2025-11-27,P111,Headphones,Electronics,8,5000,40000
+T065,2025-11-29,P105,Rice Bag 10kg,Grocery,8,2500,20000
+T066,2025-11-25,P108,Bread,Grocery,5,200,1000
+T067,2025-11-27,P114,Jacket,Clothing,9,8000,72000
+T068,2025-11-27,P113,Sweater,Clothing,9,3500,31500
+T069,2025-11-30,P109,Cooking Oil 5L,Grocery,2,2500,5000
+T070,2025-11-30,P112,LED TV,Electronics,5,70000,350000
+T071,2025-11-28,P115,Cap,Clothing,8,700,5600
+T072,2025-11-29,P109,Cooking Oil 5L,Grocery,9,2500,22500
+T073,2025-11-26,P101,Shampoo,Grocery,1,300,300
+T074,2025-11-28,P104,Laptop,Electronics,6,120000,720000
+T075,2025-11-25,P114,Jacket,Clothing,8,8000,64000
+T076,2025-11-25,P102,Smartphone,Electronics,9,45000,405000
+T077,2025-11-25,P114,Jacket,Clothing,4,8000,32000
+T078,2025-11-27,P101,Shampoo,Grocery,9,300,2700
+T079,2025-11-25,P115,Cap,Clothing,8,700,5600
+T080,2025-11-30,P110,Sugar 5kg,Grocery,6,600,3600
+T081,2025-11-28,P115,Cap,Clothing,5,700,3500
+T082,2025-11-26,P111,Headphones,Electronics,3,5000,15000
+T083,2025-11-28,P110,Sugar 5kg,Grocery,10,600,6000
+T084,2025-11-25,P112,LED TV,Electronics,1,70000,70000
+T085,2025-11-26,P105,Rice Bag 10kg,Grocery,2,2500,5000
+T086,2025-11-30,P113,Sweater,Clothing,4,3500,14000
+T087,2025-11-26,P108,Bread,Grocery,7,200,1400
+T088,2025-11-28,P104,Laptop,Electronics,10,120000,1200000
+T089,2025-11-26,P111,Headphones,Electronics,6,5000,30000
+T090,2025-11-26,P106,Jeans,Clothing,10,2500,25000
+T091,2025-11-25,P102,Smartphone,Electronics,8,45000,360000
+T092,2025-11-30,P109,Cooking Oil 5L,Grocery,8,2500,20000
+T093,2025-11-28,P104,Laptop,Electronics,2,120000,240000
+T094,2025-11-25,P113,Sweater,Clothing,6,3500,21000
+T095,2025-11-27,P111,Headphones,Electronics,7,5000,35000
+T096,2025-11-29,P107,Microwave,Electronics,1,25000,25000
+T097,2025-11-29,P107,Microwave,Electronics,6,25000,150000
+T098,2025-11-29,P104,Laptop,Electronics,7,120000,840000
+T099,2025-11-30,P110,Sugar 5kg,Grocery,5,600,3000
+T100,2025-11-28,P102,Smartphone,Electronics,9,45000,405000
+TransactionID,Date,TransactionType,Amount,PaymentMethod,Description
+T86820,2023-10-01,Income,19038.93,Debit Card,Income entry for Supplier Payment
+T54131,2023-10-01,Income,1632.6300000000001,Online Wallet,Income entry for Utility Bill
+T72955,2023-10-01,Income,19413.240000000002,Credit Card,Income entry for Supplier Payment
+T63707,2023-10-01,Income,4076.3899999999999,Credit Card,Income entry for Misc
+T35658,2023-10-01,Income,6178.9700000000003,Debit Card,Income entry for Supplier Payment
+T69150,2023-10-01,Income,19488.23,Credit Card,Income entry for Utility Bill
+T21394,2023-10-01,Income,19673,Cash,Income entry for Utility Bill
+T97313,2023-10-01,Income,9284.7399999999998,Online Wallet,Income entry for Sales
+T86552,2023-10-01,Expense,8103.1300000000001,Credit Card,Expense entry for Misc
+T33483,2023-10-01,Income,5200,Debit Card,Income entry for Refund
+T90077,2023-10-01,Income,1170.5799999999999,Cash,Income entry for Refund
+T76557,2023-10-02,Income,15229.549999999999,Credit Card,Income entry for Supplier Payment
+T82409,2023-10-02,Income,1110.6099999999999,Online Wallet,Income entry for Supplier Payment
+T42606,2023-10-02,Income,18569.849999999999,Online Wallet,Income entry for Refund
+T33247,2023-10-02,Income,6843.9399999999996,Cash,Income entry for Supplier Payment
+T73704,2023-10-02,Income,11941.65,Online Wallet,Income entry for Refund
+T61214,2023-10-02,Income,3248.02,Cash,Income entry for Sales
+T72592,2023-10-02,Income,8756.3299999999999,Online Wallet,Income entry for Utility Bill
+T71858,2023-10-02,Income,14371.17,Cash,Income entry for Utility Bill
+T62251,2023-10-02,Income,7490.0799999999999,Debit Card,Income entry for Sales
+T99135,2023-10-03,Income,6952.5100000000002,Debit Card,Income entry for Misc
+T34538,2023-10-03,Expense,6411.8199999999997,Debit Card,Expense entry for Sales
+T37266,2023-10-03,Income,19448.389999999999,Cash,Income entry for Misc
+T10206,2023-10-03,Income,15533.860000000001,Debit Card,Income entry for Supplier Payment
+T60015,2023-10-03,Income,2603.8800000000001,Debit Card,Income entry for Sales
+T28141,2023-10-03,Income,10417.129999999999,Cash,Income entry for Misc
+T65820,2023-10-03,Income,4459.6899999999996,Online Wallet,Income entry for Utility Bill
+T74044,2023-10-03,Income,17669.119999999999,Credit Card,Income entry for Sales
+T79163,2023-10-03,Income,9402.4200000000001,Online Wallet,Income entry for Utility Bill
+T31976,2023-10-04,Income,2880.7199999999998,Debit Card,Income entry for Sales
+T16776,2023-10-04,Income,13129.959999999999,Online Wallet,Income entry for Misc
+T31959,2023-10-04,Expense,168.83000000000001,Debit Card,Expense entry for Sales
+T23545,2023-10-04,Income,14002.5,Online Wallet,Income entry for Utility Bill
+T78840,2023-10-04,Income,10616.42,Online Wallet,Income entry for Sales
+T93211,2023-10-04,Income,5451.3500000000004,Credit Card,Income entry for Supplier Payment
+T36736,2023-10-05,Expense,1566.0599999999999,Credit Card,Expense entry for Supplier Payment
+T48623,2023-10-05,Income,1144.49,Cash,Income entry for Sales
+T60859,2023-10-05,Income,3325.4499999999998,Credit Card,Income entry for Refund
+T22688,2023-10-05,Income,7708.2600000000002,Debit Card,Income entry for Misc
+T44698,2023-10-05,Income,12853.83,Debit Card,Income entry for Sales
+T61663,2023-10-05,Income,10409.879999999999,Cash,Income entry for Utility Bill
+T82082,2023-10-05,Income,13712.51,Credit Card,Income entry for Utility Bill
+T77270,2023-10-05,Expense,3551.79,Online Wallet,Expense entry for Sales
+T21111,2023-10-05,Income,8041.3400000000001,Cash,Income entry for Utility Bill
+T57254,2023-10-06,Income,2712.73,Debit Card,Income entry for Supplier Payment
+T26371,2023-10-06,Income,13369.690000000001,Online Wallet,Income entry for Sales
+T30932,2023-10-06,Income,2315.5,Cash,Income entry for Utility Bill
+T52642,2023-10-06,Income,5937.9899999999998,Online Wallet,Income entry for Utility Bill
+T69040,2023-10-06,Expense,4104.6300000000001,Online Wallet,Expense entry for Refund
+T63351,2023-10-06,Income,3651.7600000000002,Online Wallet,Income entry for Utility Bill
+T12200,2023-10-06,Income,18832.599999999999,Cash,Income entry for Supplier Payment
+T12869,2023-10-06,Income,11200.309999999999,Debit Card,Income entry for Misc
+T33328,2023-10-06,Income,14387.49,Credit Card,Income entry for Misc
+T56214,2023-10-06,Income,7646.1400000000003,Debit Card,Income entry for Sales
+T50818,2023-10-07,Income,11079.530000000001,Credit Card,Income entry for Misc
+T40746,2023-10-07,Income,18168.93,Credit Card,Income entry for Misc
+T15600,2023-10-07,Income,11749.629999999999,Cash,Income entry for Refund
+T83744,2023-10-07,Expense,2879.6500000000001,Online Wallet,Expense entry for Refund
+T53525,2023-10-07,Income,5951.4300000000003,Debit Card,Income entry for Refund
+T10301,2023-10-07,Income,18602.209999999999,Cash,Income entry for Utility Bill
+T20492,2023-10-07,Expense,845.92999999999995,Cash,Expense entry for Sales
+T44584,2023-10-07,Income,3805.1100000000001,Credit Card,Income entry for Supplier Payment
+T82991,2023-10-07,Expense,797.12,Debit Card,Expense entry for Supplier Payment
+T55017,2023-10-08,Income,6258.1700000000001,Cash,Income entry for Sales
+T64748,2023-10-08,Income,14323.76,Credit Card,Income entry for Supplier Payment
+T18716,2023-10-08,Expense,8684.0200000000004,Online Wallet,Expense entry for Supplier Payment
+T12368,2023-10-08,Income,12743.940000000001,Online Wallet,Income entry for Refund
+T42097,2023-10-08,Expense,373.41000000000003,Credit Card,Expense entry for Utility Bill
+T60300,2023-10-08,Income,11081.57,Credit Card,Income entry for Supplier Payment
+T80313,2023-10-08,Expense,2577.4899999999998,Credit Card,Expense entry for Utility Bill
+T29508,2023-10-09,Income,10683.74,Online Wallet,Income entry for Refund
+T64021,2023-10-09,Expense,4626.9300000000003,Cash,Expense entry for Refund
+T82615,2023-10-09,Income,14140.49,Online Wallet,Income entry for Misc
+T96672,2023-10-09,Expense,7174.4899999999998,Online Wallet,Expense entry for Utility Bill
+T42217,2023-10-09,Income,2029.9000000000001,Cash,Income entry for Sales
+T26896,2023-10-09,Income,1634.78,Debit Card,Income entry for Supplier Payment
+T30056,2023-10-09,Income,2330.5300000000002,Online Wallet,Income entry for Misc
+T63222,2023-10-09,Income,19119.869999999999,Online Wallet,Income entry for Misc
+T95067,2023-10-09,Income,8682.2000000000007,Credit Card,Income entry for Utility Bill
+T71389,2023-10-10,Expense,242.5,Online Wallet,Expense entry for Misc
+T88781,2023-10-10,Income,6572.5600000000004,Online Wallet,Income entry for Misc
+T45247,2023-10-10,Income,2407.77,Cash,Income entry for Refund
+T36646,2023-10-10,Income,8960.1100000000006,Credit Card,Income entry for Supplier Payment
+T50158,2023-10-10,Expense,8878.1399999999994,Credit Card,Expense entry for Supplier Payment
+T51975,2023-10-10,Expense,5060.29,Cash,Expense entry for Misc
+T40977,2023-10-10,Income,1876.0899999999999,Cash,Income entry for Refund
+T28071,2023-10-10,Income,18834.490000000002,Online Wallet,Income entry for Supplier Payment
+T80588,2023-10-10,Income,3005.7600000000002,Debit Card,Income entry for Utility Bill
+T48304,2023-10-10,Expense,3922.4200000000001,Online Wallet,Expense entry for Supplier Payment
+T96027,2023-10-10,Income,5842.2399999999998,Debit Card,Income entry for Supplier Payment
+T37350,2023-10-11,Income,12555.950000000001,Cash,Income entry for Supplier Payment
+T85353,2023-10-11,Income,16975.07,Credit Card,Income entry for Supplier Payment
+T92745,2023-10-11,Income,10172.73,Cash,Income entry for Supplier Payment
+T43496,2023-10-11,Income,17610.700000000001,Cash,Income entry for Misc
+T28888,2023-10-11,Income,3960.0700000000002,Online Wallet,Income entry for Utility Bill
+T47841,2023-10-11,Expense,4184.9200000000001,Cash,Expense entry for Misc
+T53286,2023-10-11,Income,13756.969999999999,Cash,Income entry for Utility Bill
+T24397,2023-10-11,Income,18099.779999999999,Online Wallet,Income entry for Sales
+T57280,2023-10-11,Income,17962.700000000001,Online Wallet,Income entry for Refund
+T79896,2023-10-11,Expense,8486.7199999999993,Debit Card,Expense entry for Refund
+T64098,2023-10-11,Expense,9511.0100000000002,Credit Card,Expense entry for Misc
+T21130,2023-10-11,Income,12247.6,Cash,Income entry for Refund
+T11062,2023-10-12,Expense,7834.8299999999999,Cash,Expense entry for Misc
+T19348,2023-10-12,Income,1622.4000000000001,Debit Card,Income entry for Misc
+T82267,2023-10-12,Income,2782.8099999999999,Cash,Income entry for Supplier Payment
+T54261,2023-10-12,Expense,8682,Debit Card,Expense entry for Misc
+T98858,2023-10-12,Income,8234.7099999999991,Credit Card,Income entry for Supplier Payment
+T36962,2023-10-12,Income,2154.3400000000001,Online Wallet,Income entry for Misc
+T67854,2023-10-12,Income,16349.59,Debit Card,Income entry for Sales
+T99339,2023-10-12,Income,7329.2600000000002,Debit Card,Income entry for Utility Bill
+T35289,2023-10-12,Expense,5628.1999999999998,Credit Card,Expense entry for Utility Bill
+T14748,2023-10-12,Income,10106.190000000001,Credit Card,Income entry for Refund
+T67799,2023-10-12,Income,14948.99,Cash,Income entry for Sales
+T90219,2023-10-12,Expense,6842.29,Credit Card,Expense entry for Sales
+T43591,2023-10-13,Income,6071.3900000000003,Cash,Income entry for Misc
+T32700,2023-10-13,Expense,220.33000000000001,Cash,Expense entry for Misc
+T86539,2023-10-13,Income,18530.540000000001,Cash,Income entry for Refund
+T81726,2023-10-13,Income,19401.400000000001,Cash,Income entry for Sales
+T78866,2023-10-13,Income,9363.5499999999993,Online Wallet,Income entry for Sales
+T21023,2023-10-13,Expense,9591.1499999999996,Online Wallet,Expense entry for Refund
+T19337,2023-10-13,Income,7045.3699999999999,Online Wallet,Income entry for Refund
+T41921,2023-10-13,Income,7390.3699999999999,Online Wallet,Income entry for Refund
+T57605,2023-10-13,Income,5569.0200000000004,Debit Card,Income entry for Sales
+T45547,2023-10-13,Income,8518.5300000000007,Online Wallet,Income entry for Misc
+T55445,2023-10-13,Income,1985.9100000000001,Credit Card,Income entry for Utility Bill
+T75545,2023-10-14,Expense,6172.8100000000004,Online Wallet,Expense entry for Supplier Payment
+T11015,2023-10-14,Income,3714.27,Cash,Income entry for Sales
+T72292,2023-10-14,Income,19713.080000000002,Credit Card,Income entry for Sales
+T56540,2023-10-14,Expense,8436.9799999999996,Cash,Expense entry for Supplier Payment
+T10404,2023-10-14,Income,3110.1199999999999,Online Wallet,Income entry for Refund
+T90642,2023-10-14,Expense,9997.2000000000007,Cash,Expense entry for Misc
+T63330,2023-10-14,Expense,7595.1000000000004,Cash,Expense entry for Misc
+T55106,2023-10-15,Income,3018.6100000000001,Cash,Income entry for Misc
+T55543,2023-10-15,Income,17625.299999999999,Online Wallet,Income entry for Supplier Payment
+T24489,2023-10-15,Income,2714.3699999999999,Credit Card,Income entry for Supplier Payment
+T42049,2023-10-15,Income,16711.740000000002,Online Wallet,Income entry for Sales
+T34285,2023-10-15,Income,11438.290000000001,Debit Card,Income entry for Sales
+T25254,2023-10-16,Income,9860.8999999999996,Debit Card,Income entry for Misc
+T63682,2023-10-16,Income,14229.559999999999,Debit Card,Income entry for Refund
+T83553,2023-10-16,Expense,6120.0699999999997,Credit Card,Expense entry for Utility Bill
+T63413,2023-10-16,Income,14664.74,Cash,Income entry for Refund
+T53088,2023-10-16,Income,10710.24,Cash,Income entry for Misc
+T97369,2023-10-16,Income,18568.459999999999,Cash,Income entry for Refund
+T83477,2023-10-16,Income,1394.29,Cash,Income entry for Supplier Payment
+T22015,2023-10-16,Income,12851.32,Debit Card,Income entry for Utility Bill
+T90719,2023-10-16,Income,9472.3199999999997,Debit Card,Income entry for Utility Bill
+T51240,2023-10-17,Income,12997.059999999999,Debit Card,Income entry for Utility Bill
+T38732,2023-10-17,Income,19475.650000000001,Credit Card,Income entry for Utility Bill
+T46668,2023-10-17,Income,3794.23,Credit Card,Income entry for Misc
+T26907,2023-10-17,Income,10921.26,Credit Card,Income entry for Supplier Payment
+T91818,2023-10-17,Income,6936.9399999999996,Cash,Income entry for Supplier Payment
+T20478,2023-10-17,Expense,6316.21,Online Wallet,Expense entry for Utility Bill
+T74291,2023-10-18,Expense,704.66999999999996,Cash,Expense entry for Sales
+T10302,2023-10-18,Income,19732.009999999998,Debit Card,Income entry for Supplier Payment
+T26748,2023-10-18,Expense,5359.5299999999997,Credit Card,Expense entry for Utility Bill
+T28030,2023-10-18,Income,14410.32,Debit Card,Income entry for Utility Bill
+T98869,2023-10-18,Income,2589.8499999999999,Debit Card,Income entry for Utility Bill
+T20267,2023-10-19,Income,5750.2399999999998,Credit Card,Income entry for Sales
+T57915,2023-10-19,Expense,983.12,Cash,Expense entry for Sales
+T17561,2023-10-19,Income,9742.4099999999999,Debit Card,Income entry for Sales
+T36069,2023-10-19,Income,2194.9499999999998,Credit Card,Income entry for Sales
+T70004,2023-10-19,Income,7886.0699999999997,Credit Card,Income entry for Refund
+T85703,2023-10-19,Income,11630.18,Debit Card,Income entry for Misc
+T37285,2023-10-19,Income,18706.990000000002,Cash,Income entry for Refund
+T86125,2023-10-19,Expense,970.09000000000003,Debit Card,Expense entry for Sales
+T14324,2023-10-19,Income,10727.969999999999,Online Wallet,Income entry for Supplier Payment
+T97886,2023-10-19,Income,18389.209999999999,Credit Card,Income entry for Sales
+T63441,2023-10-19,Income,14596.469999999999,Debit Card,Income entry for Utility Bill
+T16469,2023-10-20,Income,5959.5900000000001,Credit Card,Income entry for Refund
+T46976,2023-10-20,Income,10398.4,Online Wallet,Income entry for Sales
+T11828,2023-10-20,Income,6128.3000000000002,Credit Card,Income entry for Utility Bill
+T57362,2023-10-20,Expense,3274.3600000000001,Cash,Expense entry for Supplier Payment
+T19865,2023-10-20,Income,11197.76,Online Wallet,Income entry for Supplier Payment
+T18512,2023-10-20,Income,16292.549999999999,Debit Card,Income entry for Misc
+T89767,2023-10-20,Income,2775.5700000000002,Credit Card,Income entry for Utility Bill
+T22219,2023-10-20,Income,18625.82,Online Wallet,Income entry for Supplier Payment
+T80792,2023-10-20,Income,14751.92,Credit Card,Income entry for Refund
+T46159,2023-10-20,Income,18565.759999999998,Credit Card,Income entry for Refund
+T51832,2023-10-20,Expense,1483.75,Cash,Expense entry for Refund
+T29282,2023-10-20,Income,3703.1799999999998,Debit Card,Income entry for Supplier Payment
+T92985,2023-10-21,Expense,3230.3499999999999,Cash,Expense entry for Supplier Payment
+T49711,2023-10-21,Expense,4447.4399999999996,Debit Card,Expense entry for Misc
+T28574,2023-10-21,Income,15078.379999999999,Cash,Income entry for Sales
+T28381,2023-10-21,Income,8133.8999999999996,Cash,Income entry for Utility Bill
+T93122,2023-10-21,Income,8914.7999999999993,Online Wallet,Income entry for Supplier Payment
+T81324,2023-10-21,Income,15983.49,Cash,Income entry for Refund
+T61356,2023-10-21,Expense,5774.1899999999996,Credit Card,Expense entry for Sales
+T92870,2023-10-21,Income,5345.54,Cash,Income entry for Refund
+T53872,2023-10-21,Income,15367.940000000001,Credit Card,Income entry for Misc
+T81895,2023-10-21,Income,17005.82,Online Wallet,Income entry for Misc
+T94291,2023-10-21,Income,9983.9699999999993,Online Wallet,Income entry for Misc
+T49666,2023-10-22,Expense,6447.3599999999997,Online Wallet,Expense entry for Refund
+T81315,2023-10-22,Expense,6030.3900000000003,Debit Card,Expense entry for Supplier Payment
+T65318,2023-10-22,Income,4933.3400000000001,Debit Card,Income entry for Supplier Payment
+T85916,2023-10-22,Expense,1618.1800000000001,Online Wallet,Expense entry for Supplier Payment
+T37306,2023-10-22,Income,853.14999999999998,Online Wallet,Income entry for Refund
+T70279,2023-10-22,Income,14084.690000000001,Cash,Income entry for Supplier Payment
+T65176,2023-10-22,Expense,3806.9099999999999,Credit Card,Expense entry for Utility Bill
+T13797,2023-10-22,Expense,9350.2299999999996,Debit Card,Expense entry for Sales
+T11645,2023-10-22,Income,19704.400000000001,Online Wallet,Income entry for Sales
+T49282,2023-10-22,Income,6573.1599999999999,Online Wallet,Income entry for Misc
+T67545,2023-10-22,Income,15012.870000000001,Online Wallet,Income entry for Sales
+T35150,2023-10-22,Income,7003.2299999999996,Online Wallet,Income entry for Sales
+T18070,2023-10-23,Expense,9237.3099999999995,Credit Card,Expense entry for Utility Bill
+T51914,2023-10-23,Expense,4576.96,Online Wallet,Expense entry for Utility Bill
+T77526,2023-10-23,Income,3939.5500000000002,Online Wallet,Income entry for Misc
+T14757,2023-10-23,Expense,3687.6999999999998,Credit Card,Expense entry for Refund
+T80480,2023-10-23,Income,10545.889999999999,Online Wallet,Income entry for Sales
+T31566,2023-10-23,Income,8585.1700000000001,Cash,Income entry for Sales
+T51949,2023-10-23,Income,6543.7700000000004,Debit Card,Income entry for Utility Bill
+T12079,2023-10-23,Income,18012.060000000001,Credit Card,Income entry for Misc
+T82847,2023-10-23,Income,7865.6599999999999,Online Wallet,Income entry for Utility Bill
+T58302,2023-10-24,Income,15622.790000000001,Credit Card,Income entry for Supplier Payment
+T21485,2023-10-24,Income,9881.2099999999991,Credit Card,Income entry for Utility Bill
+T22342,2023-10-24,Income,4047.5999999999999,Debit Card,Income entry for Utility Bill
+T85629,2023-10-24,Income,5779.5200000000004,Credit Card,Income entry for Refund
+T36399,2023-10-24,Expense,9791.4200000000001,Credit Card,Expense entry for Misc
+T65106,2023-10-24,Income,11258.59,Online Wallet,Income entry for Utility Bill
+T41480,2023-10-24,Income,12103.459999999999,Debit Card,Income entry for Misc
+T89111,2023-10-24,Income,13228.549999999999,Credit Card,Income entry for Utility Bill
+T70535,2023-10-24,Income,14584.209999999999,Credit Card,Income entry for Utility Bill
+T96925,2023-10-24,Expense,9449.6599999999999,Debit Card,Expense entry for Supplier Payment
+T12198,2023-10-25,Income,2167.4200000000001,Cash,Income entry for Utility Bill
+T60460,2023-10-25,Income,17590.66,Online Wallet,Income entry for Supplier Payment
+T97955,2023-10-25,Expense,8192.6900000000005,Debit Card,Expense entry for Supplier Payment
+T86918,2023-10-25,Expense,3694.29,Online Wallet,Expense entry for Refund
+T73197,2023-10-25,Income,8483.5300000000007,Cash,Income entry for Supplier Payment
+T27771,2023-10-25,Expense,2273.1500000000001,Online Wallet,Expense entry for Sales
+T96143,2023-10-25,Expense,4925.5699999999997,Online Wallet,Expense entry for Sales
+T88344,2023-10-26,Income,10492.92,Online Wallet,Income entry for Supplier Payment
+T65029,2023-10-26,Income,5528.8100000000004,Credit Card,Income entry for Utility Bill
+T86908,2023-10-26,Income,3079.3899999999999,Credit Card,Income entry for Misc
+T71268,2023-10-26,Income,18328.830000000002,Credit Card,Income entry for Refund
+T32180,2023-10-26,Income,1809.9200000000001,Cash,Income entry for Supplier Payment
+T26725,2023-10-26,Expense,1155.1300000000001,Cash,Expense entry for Utility Bill
+T14263,2023-10-26,Expense,8751.5100000000002,Credit Card,Expense entry for Refund
+T69052,2023-10-26,Income,10138.34,Cash,Income entry for Supplier Payment
+T46397,2023-10-26,Income,15532.77,Online Wallet,Income entry for Supplier Payment
+T29250,2023-10-26,Income,14891.66,Cash,Income entry for Refund
+T63002,2023-10-26,Expense,775.66999999999996,Online Wallet,Expense entry for Utility Bill
+T21046,2023-10-26,Income,14521.4,Online Wallet,Income entry for Utility Bill
+T78247,2023-10-27,Expense,4026.8299999999999,Credit Card,Expense entry for Misc
+T84478,2023-10-27,Income,5763.2700000000004,Online Wallet,Income entry for Utility Bill
+T34058,2023-10-27,Income,1502.8,Cash,Income entry for Utility Bill
+T11524,2023-10-27,Income,15532.790000000001,Cash,Income entry for Sales
+T10060,2023-10-27,Income,8549.4699999999993,Debit Card,Income entry for Supplier Payment
+T38145,2023-10-27,Income,1980.7,Cash,Income entry for Refund
+T98929,2023-10-28,Income,5806.8299999999999,Online Wallet,Income entry for Utility Bill
+T16960,2023-10-28,Income,16244.889999999999,Cash,Income entry for Sales
+T67134,2023-10-28,Expense,4515.46,Online Wallet,Expense entry for Utility Bill
+T11750,2023-10-28,Expense,8084.96,Cash,Expense entry for Sales
+T37935,2023-10-28,Expense,6501.9799999999996,Credit Card,Expense entry for Sales
+T92310,2023-10-28,Income,11574.93,Credit Card,Income entry for Misc
+T83543,2023-10-28,Expense,2006.73,Credit Card,Expense entry for Utility Bill
+T64237,2023-10-28,Expense,4794.7200000000003,Online Wallet,Expense entry for Utility Bill
+T97312,2023-10-28,Income,16663.849999999999,Credit Card,Income entry for Utility Bill
+T92050,2023-10-29,Income,9880.7099999999991,Cash,Income entry for Utility Bill
+T88187,2023-10-29,Income,14632.950000000001,Debit Card,Income entry for Sales
+T17564,2023-10-29,Income,13402.280000000001,Credit Card,Income entry for Sales
+T90765,2023-10-29,Expense,6197.0500000000002,Credit Card,Expense entry for Utility Bill
+T39430,2023-10-29,Expense,310.56999999999999,Cash,Expense entry for Misc
+T49974,2023-10-29,Income,18685.5,Credit Card,Income entry for Refund
+T83972,2023-10-29,Income,2226.5999999999999,Online Wallet,Income entry for Sales
+T20616,2023-10-29,Income,5797.8999999999996,Credit Card,Income entry for Sales
+T20816,2023-10-29,Income,10689.120000000001,Credit Card,Income entry for Sales
+T42413,2023-10-29,Income,7415.1300000000001,Credit Card,Income entry for Refund
+T67775,2023-10-29,Expense,5932.1700000000001,Cash,Expense entry for Misc
+T90688,2023-10-30,Expense,4334.9499999999998,Cash,Expense entry for Refund
+T55028,2023-10-30,Income,19024.240000000002,Debit Card,Income entry for Refund
+T39757,2023-10-30,Income,17642.810000000001,Cash,Income entry for Supplier Payment
+T64842,2023-10-30,Income,19827.790000000001,Online Wallet,Income entry for Refund
+T74754,2023-10-30,Expense,2382.6399999999999,Cash,Expense entry for Supplier Payment
+T92856,2023-10-30,Income,7989.7700000000004,Cash,Income entry for Supplier Payment
+T60948,2023-10-30,Expense,3566.2399999999998,Credit Card,Expense entry for Sales
+T40448,2023-10-30,Income,12146.84,Cash,Income entry for Utility Bill
+T36685,2023-10-30,Income,15285.65,Cash,Income entry for Utility Bill
+T17287,2023-10-30,Expense,2321.96,Cash,Expense entry for Sales
+T27674,2023-10-30,Income,11811.68,Cash,Income entry for Utility Bill
+T27602,2023-10-31,Income,9795.2000000000007,Cash,Income entry for Supplier Payment
+T52520,2023-10-31,Expense,8114.21,Cash,Expense entry for Utility Bill
+T43742,2023-10-31,Income,8464.8400000000001,Credit Card,Income entry for Utility Bill
+T19903,2023-10-31,Expense,5009.1700000000001,Cash,Expense entry for Refund
+T19516,2023-10-31,Income,17098.529999999999,Online Wallet,Income entry for Misc
+T21303,2023-10-31,Expense,5756.0600000000004,Credit Card,Expense entry for Utility Bill
+T96231,2023-10-31,Expense,7365.71,Debit Card,Expense entry for Refund
+T93624,2023-10-31,Expense,8686.2099999999991,Cash,Expense entry for Utility Bill
+T96206,2023-10-31,Income,18636.759999999998,Debit Card,Income entry for Refund
+T84553,2023-10-31,Income,17676.98,Cash,Income entry for Utility Bill
+T12719,2023-11-01,Expense,150.94,Debit Card,Expense entry for Misc
+T28787,2023-11-01,Expense,1691.52,Credit Card,Expense entry for Misc
+T97263,2023-11-01,Income,624.51999999999998,Cash,Income entry for Utility Bill
+T41966,2023-11-01,Expense,6354.9499999999998,Credit Card,Expense entry for Refund
+T11007,2023-11-01,Income,16464.25,Credit Card,Income entry for Utility Bill
+T52207,2023-11-01,Expense,5458.54,Credit Card,Expense entry for Refund
+T15084,2023-11-01,Income,18674.549999999999,Credit Card,Income entry for Refund
+T17491,2023-11-01,Income,15531.66,Debit Card,Income entry for Sales
+T19077,2023-11-02,Expense,7114.8599999999997,Cash,Expense entry for Supplier Payment
+T33821,2023-11-02,Income,17122.09,Online Wallet,Income entry for Misc
+T31427,2023-11-02,Income,13127.690000000001,Cash,Income entry for Refund
+T17813,2023-11-02,Income,931.40999999999997,Debit Card,Income entry for Utility Bill
+T21745,2023-11-02,Income,520.07000000000005,Credit Card,Income entry for Supplier Payment
+T16540,2023-11-02,Expense,4319.1899999999996,Cash,Expense entry for Misc
+T70545,2023-11-02,Income,4805.0100000000002,Debit Card,Income entry for Refund
+T54413,2023-11-02,Income,5828.5600000000004,Online Wallet,Income entry for Refund
+T38602,2023-11-02,Expense,9104.2900000000009,Online Wallet,Expense entry for Utility Bill
+T17424,2023-11-03,Income,19687.560000000001,Credit Card,Income entry for Refund
+T58290,2023-11-03,Expense,7483.79,Online Wallet,Expense entry for Sales
+T48158,2023-11-03,Income,7686.2600000000002,Online Wallet,Income entry for Utility Bill
+T15776,2023-11-03,Expense,1936.7,Cash,Expense entry for Misc
+T95553,2023-11-03,Income,9347.0300000000007,Online Wallet,Income entry for Utility Bill
+T15655,2023-11-03,Expense,3012.2600000000002,Online Wallet,Expense entry for Supplier Payment
+T78760,2023-11-03,Income,16032.48,Credit Card,Income entry for Sales
+T18712,2023-11-03,Income,5327.0299999999997,Credit Card,Income entry for Sales
+T59268,2023-11-03,Income,13204.629999999999,Credit Card,Income entry for Utility Bill
+T36589,2023-11-03,Expense,1580.8499999999999,Online Wallet,Expense entry for Supplier Payment
+T36143,2023-11-04,Income,12200.4,Debit Card,Income entry for Misc
+T62648,2023-11-04,Expense,9531.2199999999993,Online Wallet,Expense entry for Utility Bill
+T53408,2023-11-04,Income,2546.1399999999999,Online Wallet,Income entry for Sales
+T58787,2023-11-04,Income,858.16999999999996,Cash,Income entry for Supplier Payment
+T59153,2023-11-04,Expense,9418.25,Cash,Expense entry for Sales
+T98652,2023-11-04,Expense,916.83000000000004,Online Wallet,Expense entry for Supplier Payment
+T33398,2023-11-04,Income,3087.96,Credit Card,Income entry for Supplier Payment
+T19078,2023-11-04,Expense,2081.4899999999998,Online Wallet,Expense entry for Sales
+T59786,2023-11-05,Expense,1329.78,Credit Card,Expense entry for Sales
+T36015,2023-11-05,Expense,614.51999999999998,Cash,Expense entry for Supplier Payment
+T13389,2023-11-05,Expense,9478.7700000000004,Online Wallet,Expense entry for Utility Bill
+T76435,2023-11-05,Income,13385.99,Credit Card,Income entry for Supplier Payment
+T66446,2023-11-05,Expense,4860.9499999999998,Cash,Expense entry for Refund
+T90885,2023-11-05,Expense,908.13999999999999,Online Wallet,Expense entry for Refund
+T36745,2023-11-05,Income,17499.779999999999,Debit Card,Income entry for Refund
+T12356,2023-11-05,Expense,8731.1399999999994,Debit Card,Expense entry for Utility Bill
+T26082,2023-11-06,Income,906.78999999999996,Credit Card,Income entry for Misc
+T70315,2023-11-06,Expense,9750.4500000000007,Credit Card,Expense entry for Utility Bill
+T65230,2023-11-06,Income,1907.8699999999999,Debit Card,Income entry for Sales
+T69321,2023-11-06,Expense,1824.51,Cash,Expense entry for Refund
+T49443,2023-11-06,Income,14839.33,Online Wallet,Income entry for Supplier Payment
+T82099,2023-11-06,Expense,5828.8900000000003,Credit Card,Expense entry for Misc
+T36958,2023-11-06,Income,12320.68,Credit Card,Income entry for Refund
+T27778,2023-11-06,Income,5898.1400000000003,Credit Card,Income entry for Misc
+T94878,2023-11-06,Income,12647.85,Cash,Income entry for Utility Bill
+T88301,2023-11-06,Expense,4112.5699999999997,Debit Card,Expense entry for Supplier Payment
+T43142,2023-11-06,Income,19442.200000000001,Cash,Income entry for Misc
+T60677,2023-11-07,Income,9024.7299999999996,Online Wallet,Income entry for Misc
+T57064,2023-11-07,Income,10538.940000000001,Online Wallet,Income entry for Supplier Payment
+T71272,2023-11-07,Income,13216.4,Cash,Income entry for Refund
+T23760,2023-11-07,Income,13306.360000000001,Online Wallet,Income entry for Refund
+T62233,2023-11-07,Income,19411.509999999998,Debit Card,Income entry for Supplier Payment
+T29816,2023-11-07,Income,13553.110000000001,Cash,Income entry for Misc
+T98576,2023-11-07,Income,12534.33,Cash,Income entry for Refund
+T61886,2023-11-07,Income,12307.99,Cash,Income entry for Refund
+T36155,2023-11-07,Income,16961.32,Online Wallet,Income entry for Refund
+T93194,2023-11-07,Expense,5625.5900000000001,Cash,Expense entry for Refund
+T57614,2023-11-07,Income,1613.1900000000001,Cash,Income entry for Refund
+T11058,2023-11-07,Income,12980.059999999999,Credit Card,Income entry for Misc
+T19200,2023-11-08,Expense,3229.9499999999998,Debit Card,Expense entry for Refund
+T11239,2023-11-08,Income,19739.290000000001,Debit Card,Income entry for Utility Bill
+T71212,2023-11-08,Income,6801.0500000000002,Cash,Income entry for Utility Bill
+T22115,2023-11-08,Income,13503.85,Debit Card,Income entry for Misc
+T92811,2023-11-08,Income,18826.490000000002,Debit Card,Income entry for Supplier Payment
+T33196,2023-11-08,Income,14751.17,Online Wallet,Income entry for Misc
+T58320,2023-11-09,Expense,2627.5300000000002,Debit Card,Expense entry for Supplier Payment
+T38625,2023-11-09,Income,841.55999999999995,Cash,Income entry for Supplier Payment
+T60138,2023-11-09,Expense,5749.04,Online Wallet,Expense entry for Sales
+T41890,2023-11-09,Income,13692.01,Debit Card,Income entry for Misc
+T18125,2023-11-09,Income,11755.110000000001,Online Wallet,Income entry for Supplier Payment
+T15704,2023-11-09,Expense,577.29999999999995,Cash,Expense entry for Sales
+T95150,2023-11-09,Expense,7549.0299999999997,Cash,Expense entry for Utility Bill
+T39165,2023-11-09,Expense,4100.9899999999998,Online Wallet,Expense entry for Utility Bill
+T35426,2023-11-10,Expense,7646.6199999999999,Cash,Expense entry for Utility Bill
+T61924,2023-11-10,Income,6288.9499999999998,Debit Card,Income entry for Sales
+T19108,2023-11-10,Income,8225.3700000000008,Debit Card,Income entry for Refund
+T18927,2023-11-10,Income,12131.469999999999,Cash,Income entry for Utility Bill
+T86743,2023-11-10,Income,1927.3199999999999,Credit Card,Income entry for Supplier Payment
+T32612,2023-11-10,Expense,5054.4099999999999,Credit Card,Expense entry for Supplier Payment
+T11177,2023-11-10,Income,1000.02,Cash,Income entry for Refund
+T37598,2023-11-10,Income,10769.16,Online Wallet,Income entry for Refund
+T91709,2023-11-11,Income,15415.219999999999,Credit Card,Income entry for Refund
+T43174,2023-11-11,Expense,280.5,Debit Card,Expense entry for Misc
+T18906,2023-11-11,Expense,2510.4699999999998,Debit Card,Expense entry for Refund
+T56881,2023-11-11,Expense,3581.0599999999999,Credit Card,Expense entry for Misc
+T46378,2023-11-11,Income,10700.15,Cash,Income entry for Refund
+T64691,2023-11-11,Income,6570.5,Credit Card,Income entry for Supplier Payment
+T96365,2023-11-11,Income,19546.139999999999,Debit Card,Income entry for Refund
+T13654,2023-11-11,Income,10740.690000000001,Debit Card,Income entry for Sales
+T34611,2023-11-11,Income,5502.9700000000003,Online Wallet,Income entry for Refund
+T31675,2023-11-11,Income,16407.099999999999,Online Wallet,Income entry for Misc
+T90758,2023-11-11,Income,19052.369999999999,Credit Card,Income entry for Misc
+T47384,2023-11-11,Expense,2357.9899999999998,Debit Card,Expense entry for Supplier Payment
+T41401,2023-11-12,Income,7535.0600000000004,Online Wallet,Income entry for Sales
+T65826,2023-11-12,Income,15720.25,Online Wallet,Income entry for Refund
+T91571,2023-11-12,Income,16285.83,Credit Card,Income entry for Sales
+T36160,2023-11-12,Income,3483.1799999999998,Debit Card,Income entry for Refund
+T59104,2023-11-12,Expense,2245.7199999999998,Credit Card,Expense entry for Misc
+T33711,2023-11-12,Income,12338.33,Debit Card,Income entry for Supplier Payment
+T67784,2023-11-12,Income,12824.299999999999,Credit Card,Income entry for Sales
+T75108,2023-11-12,Expense,1450.75,Credit Card,Expense entry for Utility Bill
+T65754,2023-11-12,Income,9192.9200000000001,Debit Card,Income entry for Refund
+T43893,2023-11-12,Expense,6071.8699999999999,Credit Card,Expense entry for Misc
+T83379,2023-11-12,Income,2170.3400000000001,Debit Card,Income entry for Sales
+T78008,2023-11-13,Income,4919.8000000000002,Debit Card,Income entry for Refund
+T80587,2023-11-13,Income,16721.330000000002,Cash,Income entry for Refund
+T66549,2023-11-13,Income,11030.23,Online Wallet,Income entry for Supplier Payment
+T55113,2023-11-13,Income,5001.1700000000001,Debit Card,Income entry for Supplier Payment
+T68576,2023-11-13,Expense,6652.21,Debit Card,Expense entry for Supplier Payment
+T10661,2023-11-13,Income,7004.6099999999997,Online Wallet,Income entry for Supplier Payment
+T20526,2023-11-13,Expense,1835.5,Debit Card,Expense entry for Sales
+T98733,2023-11-13,Income,8484.8199999999997,Cash,Income entry for Refund
+T49891,2023-11-13,Income,13465.780000000001,Debit Card,Income entry for Misc
+T39301,2023-11-13,Income,19496.209999999999,Cash,Income entry for Refund
+T92205,2023-11-13,Expense,5445.5799999999999,Cash,Expense entry for Refund
+T14895,2023-11-13,Income,2237.9299999999998,Cash,Income entry for Misc
+T29169,2023-11-14,Expense,7842.0799999999999,Cash,Expense entry for Refund
+T94328,2023-11-14,Income,5630.6999999999998,Cash,Income entry for Supplier Payment
+T65114,2023-11-14,Expense,5582.6400000000003,Debit Card,Expense entry for Refund
+T74977,2023-11-14,Income,18876.549999999999,Debit Card,Income entry for Utility Bill
+T80971,2023-11-14,Expense,5788.4200000000001,Cash,Expense entry for Refund
+T22329,2023-11-14,Income,18646.610000000001,Credit Card,Income entry for Supplier Payment
+T55033,2023-11-14,Income,13648.92,Credit Card,Income entry for Utility Bill
+T83800,2023-11-14,Expense,3116.3200000000002,Debit Card,Expense entry for Misc
+T62130,2023-11-14,Income,3498.9299999999998,Credit Card,Income entry for Refund
+T84520,2023-11-14,Income,18688.25,Cash,Income entry for Sales
+T41055,2023-11-14,Expense,4921.9099999999999,Credit Card,Expense entry for Misc
+T33429,2023-11-14,Income,19079.549999999999,Cash,Income entry for Misc
+T27347,2023-11-15,Income,1829.3599999999999,Cash,Income entry for Refund
+T21871,2023-11-15,Income,15646.110000000001,Online Wallet,Income entry for Misc
+T62188,2023-11-15,Expense,8773.4400000000005,Online Wallet,Expense entry for Misc
+T82146,2023-11-15,Income,12249.790000000001,Debit Card,Income entry for Utility Bill
+T65677,2023-11-15,Income,4239.7600000000002,Debit Card,Income entry for Supplier Payment
+T35032,2023-11-15,Income,14053.190000000001,Debit Card,Income entry for Utility Bill
+T60331,2023-11-15,Income,1955.28,Credit Card,Income entry for Utility Bill
+T51568,2023-11-15,Income,13986.549999999999,Online Wallet,Income entry for Refund
+T76918,2023-11-15,Expense,8158.3100000000004,Online Wallet,Expense entry for Refund
+T67009,2023-11-15,Income,13286.610000000001,Debit Card,Income entry for Misc
+T61196,2023-11-15,Expense,4552.8699999999999,Debit Card,Expense entry for Utility Bill
+T19956,2023-11-15,Income,16636.990000000002,Cash,Income entry for Misc
+T99818,2023-11-16,Income,8615,Cash,Income entry for Misc
+T15542,2023-11-16,Expense,1457.3900000000001,Cash,Expense entry for Sales
+T66532,2023-11-16,Income,16768.919999999998,Cash,Income entry for Supplier Payment
+T51424,2023-11-16,Income,1331.3499999999999,Debit Card,Income entry for Sales
+T39300,2023-11-16,Income,9360.3600000000006,Credit Card,Income entry for Refund
+T43361,2023-11-16,Expense,2510.4299999999998,Online Wallet,Expense entry for Utility Bill
+T29877,2023-11-16,Income,8192.2900000000009,Credit Card,Income entry for Misc
+T40911,2023-11-17,Expense,1418.1400000000001,Cash,Expense entry for Sales
+T13631,2023-11-17,Expense,8107.9499999999998,Cash,Expense entry for Sales
+T61431,2023-11-17,Expense,480.42000000000002,Cash,Expense entry for Refund
+T38602,2023-11-17,Income,13357.4,Credit Card,Income entry for Sales
+T35431,2023-11-17,Income,1799.71,Cash,Income entry for Utility Bill
+T32614,2023-11-17,Income,19771.369999999999,Cash,Income entry for Misc
+T46224,2023-11-17,Income,15051.040000000001,Cash,Income entry for Utility Bill
+T93588,2023-11-18,Income,736.12,Online Wallet,Income entry for Misc
+T58355,2023-11-18,Income,9507.9699999999993,Debit Card,Income entry for Refund
+T74027,2023-11-18,Expense,6647.5699999999997,Debit Card,Expense entry for Utility Bill
+T86295,2023-11-18,Income,11217.51,Online Wallet,Income entry for Supplier Payment
+T33888,2023-11-18,Income,2102.3499999999999,Debit Card,Income entry for Sales
+T87360,2023-11-18,Expense,6706.7700000000004,Online Wallet,Expense entry for Refund
+T71558,2023-11-18,Expense,6474.6499999999996,Credit Card,Expense entry for Supplier Payment
+T15978,2023-11-18,Income,2942.0500000000002,Online Wallet,Income entry for Supplier Payment
+T79519,2023-11-18,Income,11857.24,Online Wallet,Income entry for Refund
+T68279,2023-11-18,Income,1352.8399999999999,Credit Card,Income entry for Sales
+T65419,2023-11-19,Income,8925.5,Credit Card,Income entry for Sales
+T24291,2023-11-19,Income,5838.9300000000003,Cash,Income entry for Refund
+T71332,2023-11-19,Income,17795.040000000001,Debit Card,Income entry for Supplier Payment
+T86272,2023-11-19,Expense,8627.5599999999995,Online Wallet,Expense entry for Sales
+T25997,2023-11-19,Income,12903.379999999999,Online Wallet,Income entry for Refund
+T68005,2023-11-20,Income,6741.1700000000001,Debit Card,Income entry for Sales
+T95457,2023-11-20,Expense,527.41999999999996,Credit Card,Expense entry for Misc
+T58689,2023-11-20,Income,2291.48,Debit Card,Income entry for Utility Bill
+T13754,2023-11-20,Income,7176.4799999999996,Cash,Income entry for Misc
+T28037,2023-11-20,Expense,6158.21,Debit Card,Expense entry for Misc
+T19496,2023-11-20,Income,11754.870000000001,Online Wallet,Income entry for Misc
+T75095,2023-11-20,Income,9500.3700000000008,Cash,Income entry for Refund
+T72946,2023-11-20,Expense,9918.9200000000001,Online Wallet,Expense entry for Supplier Payment
+T44196,2023-11-20,Income,6563.1099999999997,Online Wallet,Income entry for Utility Bill
+T47900,2023-11-20,Income,7430,Cash,Income entry for Refund
+T20805,2023-11-21,Income,17036.93,Online Wallet,Income entry for Sales
+T50372,2023-11-21,Income,15116.139999999999,Cash,Income entry for Refund
+T15110,2023-11-21,Income,3403.3200000000002,Credit Card,Income entry for Utility Bill
+T19596,2023-11-21,Expense,3746.2600000000002,Online Wallet,Expense entry for Refund
+T33705,2023-11-21,Expense,2250.3699999999999,Cash,Expense entry for Misc
+T90073,2023-11-21,Income,3978.27,Credit Card,Income entry for Refund
+T69664,2023-11-21,Income,8059.6400000000003,Debit Card,Income entry for Refund
+T58868,2023-11-21,Income,14606.389999999999,Online Wallet,Income entry for Supplier Payment
+T21005,2023-11-21,Income,11432.870000000001,Online Wallet,Income entry for Supplier Payment
+T70603,2023-11-21,Income,12241.84,Online Wallet,Income entry for Utility Bill
+T88229,2023-11-22,Income,2002.6400000000001,Online Wallet,Income entry for Misc
+T23428,2023-11-22,Expense,9821.4899999999998,Debit Card,Expense entry for Refund
+T15469,2023-11-22,Income,9083.8799999999992,Debit Card,Income entry for Sales
+T11651,2023-11-22,Income,2227.71,Cash,Income entry for Utility Bill
+T26184,2023-11-22,Expense,7689.2299999999996,Online Wallet,Expense entry for Misc
+T59811,2023-11-22,Income,12932.290000000001,Online Wallet,Income entry for Utility Bill
+T67418,2023-11-22,Income,19826.970000000001,Debit Card,Income entry for Sales
+T18329,2023-11-22,Expense,2109.0700000000002,Credit Card,Expense entry for Utility Bill
+T16397,2023-11-22,Income,971.74000000000001,Credit Card,Income entry for Misc
+T94530,2023-11-22,Income,18627.529999999999,Cash,Income entry for Utility Bill
+T91906,2023-11-23,Income,8878.3099999999995,Cash,Income entry for Misc
+T35279,2023-11-23,Income,9877.6700000000001,Cash,Income entry for Refund
+T25078,2023-11-23,Income,2071.73,Debit Card,Income entry for Supplier Payment
+T53619,2023-11-23,Expense,7824.1099999999997,Credit Card,Expense entry for Sales
+T47051,2023-11-23,Income,12399.389999999999,Cash,Income entry for Refund
+T90797,2023-11-23,Income,19153.990000000002,Online Wallet,Income entry for Refund
+T10162,2023-11-24,Income,1207.6099999999999,Debit Card,Income entry for Refund
+T19833,2023-11-24,Expense,9750.8600000000006,Cash,Expense entry for Misc
+T15347,2023-11-24,Income,3549.4499999999998,Online Wallet,Income entry for Utility Bill
+T25892,2023-11-24,Income,18175.529999999999,Online Wallet,Income entry for Supplier Payment
+T24289,2023-11-24,Income,7273.1899999999996,Online Wallet,Income entry for Utility Bill
+T75428,2023-11-25,Expense,5645.6700000000001,Credit Card,Expense entry for Supplier Payment
+T80968,2023-11-25,Income,5573.0799999999999,Cash,Income entry for Supplier Payment
+T44521,2023-11-25,Expense,1535.1500000000001,Cash,Expense entry for Sales
+T39055,2023-11-25,Income,19454.099999999999,Online Wallet,Income entry for Sales
+T39300,2023-11-25,Income,929.69000000000005,Online Wallet,Income entry for Supplier Payment
+T12336,2023-11-25,Income,13833.209999999999,Cash,Income entry for Misc
+T28474,2023-11-25,Income,8377.5699999999997,Cash,Income entry for Sales
+T88021,2023-11-25,Income,2093.6399999999999,Credit Card,Income entry for Sales
+T24357,2023-11-26,Income,3248.71,Online Wallet,Income entry for Sales
+T88258,2023-11-26,Income,9514.7600000000002,Cash,Income entry for Refund
+T40651,2023-11-26,Income,10493.799999999999,Debit Card,Income entry for Supplier Payment
+T20800,2023-11-26,Expense,7960.5,Online Wallet,Expense entry for Misc
+T40573,2023-11-26,Income,6939.1899999999996,Online Wallet,Income entry for Misc
+T10781,2023-11-26,Income,3651.5900000000001,Debit Card,Income entry for Misc
+T49961,2023-11-27,Income,19707.299999999999,Cash,Income entry for Supplier Payment
+T52951,2023-11-27,Income,9546.6599999999999,Online Wallet,Income entry for Sales
+T74166,2023-11-27,Income,16067.709999999999,Online Wallet,Income entry for Sales
+T16852,2023-11-27,Income,2321.46,Debit Card,Income entry for Utility Bill
+T61707,2023-11-27,Income,10704.93,Online Wallet,Income entry for Sales
+T16710,2023-11-27,Income,12874.360000000001,Cash,Income entry for Supplier Payment
+T87067,2023-11-27,Income,14070.030000000001,Credit Card,Income entry for Utility Bill
+T11898,2023-11-27,Income,17995.130000000001,Online Wallet,Income entry for Sales
+T75031,2023-11-27,Income,1150.98,Cash,Income entry for Refund
+T49901,2023-11-28,Expense,3200.3000000000002,Credit Card,Expense entry for Utility Bill
+T90685,2023-11-28,Expense,8055.6800000000003,Debit Card,Expense entry for Sales
+T62756,2023-11-28,Income,19690.150000000001,Credit Card,Income entry for Misc
+T77065,2023-11-28,Income,19943.02,Debit Card,Income entry for Utility Bill
+T19752,2023-11-28,Income,745.85000000000002,Debit Card,Income entry for Sales
+T34217,2023-11-28,Income,16547.689999999999,Credit Card,Income entry for Misc
+T59416,2023-11-28,Expense,3434.7199999999998,Online Wallet,Expense entry for Supplier Payment
+T40090,2023-11-28,Income,15311.860000000001,Credit Card,Income entry for Refund
+T56305,2023-11-28,Income,7477.0699999999997,Credit Card,Income entry for Utility Bill
+T79615,2023-11-28,Expense,5301.8100000000004,Cash,Expense entry for Refund
+T35556,2023-11-28,Expense,1096.3099999999999,Debit Card,Expense entry for Refund
+T39009,2023-11-29,Expense,7422.75,Credit Card,Expense entry for Utility Bill
+T91557,2023-11-29,Income,12608.110000000001,Cash,Income entry for Misc
+T42602,2023-11-29,Expense,8453,Debit Card,Expense entry for Sales
+T11089,2023-11-29,Income,13685.459999999999,Debit Card,Income entry for Refund
+T48547,2023-11-29,Income,3759.0700000000002,Online Wallet,Income entry for Sales
