@@ -1,0 +1,43 @@
+-- Sales Table
+CREATE TABLE Sales (
+    SaleID INT PRIMARY KEY,
+    ProductName VARCHAR(50),
+    SalePrice DECIMAL(10,2),
+    Quantity INT,
+    SaleDate DATE,
+    LastUpdated TIMESTAMP NULL
+);
+
+-- Inventory Table
+CREATE TABLE Inventory (
+    ProductName VARCHAR(50) PRIMARY KEY,
+    StockQuantity INT
+);
+
+-- Sales Log Table
+CREATE TABLE Sales_Log (
+    LogID INT PRIMARY KEY AUTO_INCREMENT,
+    SaleID INT,
+    OldPrice DECIMAL(10,2),
+    OldQuantity INT,
+    ChangeDate TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+-- Deleted Sales Table
+CREATE TABLE Deleted_Sales (
+    LogID INT PRIMARY KEY AUTO_INCREMENT,
+    SaleID INT,
+    ProductName VARCHAR(50),
+    DeletedDate TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+-- Insert Sample Inventory
+INSERT INTO Inventory (ProductName, StockQuantity) VALUES
+('Bedsheet', 100),
+('Curtains', 50),
+('Shawl', 75);
+
+-- Insert Sample Sales
+INSERT INTO Sales (SaleID, ProductName, SalePrice, Quantity, SaleDate) VALUES
+(1, 'Bedsheet', 2500, 2, '2025-09-20'),
+(2, 'Curtains', 3000, 1, '2025-09-21');
