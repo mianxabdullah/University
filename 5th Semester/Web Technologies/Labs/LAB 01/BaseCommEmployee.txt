@@ -1,4 +1,5 @@
-public class CommissionEmployee extends Employee
+import java.util.*;
+public class BaseCommEmployee extends Employee
 {
 	double grossSalary,commRate;
 	

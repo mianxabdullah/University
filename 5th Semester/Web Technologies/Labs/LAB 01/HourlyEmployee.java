@@ -1,4 +1,3 @@
-import java.util.*;
 public class HourlyEmployee extends Employee
 {
 	int hours;
