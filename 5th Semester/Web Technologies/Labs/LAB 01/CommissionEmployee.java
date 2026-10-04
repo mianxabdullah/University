@@ -1,0 +1,26 @@
+import java.util.*;
+public class CommissionEmployee extends Employee
+{
+	double grossSalary,commRate;
+	
+	CommissionEmployee(String f,String l,String s,double g,double cr)
+	{
+		super(f,l,s);
+		grossSalary=g;
+		commRate=cr;
+	}
+	
+	@Override
+	public String toString()
+	{
+		super.toString();
+		return String.format("CommissionEmployee Gross Salary: " +grossSalary + " CommissionEmployee Commission Rate: " +commRate);
+	}
+	
+	@Override
+	void earning()
+	{
+		System.out.println("CommissionEmployee Earning: " + (commRate*grossSalary));
+	}
+	
+}
