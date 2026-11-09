@@ -1,0 +1,25 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+table {
+    width: 400px;
+    border: none;
+    margin: 0 auto;
+}
+
+th,
+td {
+    padding: 8px;
+    text-align: left;
+}
+
+label {
+    color: green;
+}
