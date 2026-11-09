@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create Account</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Create Account</h1>
+
+    <form id="signupForm" action="#" >
+        <table>
+            <tr>
+                <th><label for="fullName">Full Name</label></th>
+                <td><input type="text" id="fullName" name="fullName" required></td>
+            </tr>
+            <tr>
+                <th><label for="signupEmail">Email</label></th>
+                <td><input type="email" id="signupEmail" name="email" required></td>
+            </tr>
+            <tr>
+                <th><label for="signupPassword">Password</label></th>
+                <td><input type="password" id="signupPassword" name="password" required></td>
+            </tr>
+            <tr>
+                <th><label for="confirmPassword">Confirm Password</label></th>
+                <td><input type="password" id="confirmPassword" name="confirmPassword" required></td>
+            </tr>
+            <tr>
+                <th>Gender</th>
+                <td>
+                    <input type="radio" id="male" name="gender" value="male" required>
+                    <label for="male">Male</label>
+                    <input type="radio" id="female" name="gender" value="female">
+                    <label for="female">Female</label>
+                </td>
+            </tr>
+            <tr>
+                <th><label for="country">Country</label></th>
+                <td>
+                    <select id="country" name="country" required>
+                        <option value="">Select a country</option>
+                        <option value="pakistan">Pakistan</option>
+                        <option value="india">India</option>
+                        <option value="united-kingdom">United Kingdom</option>
+                        <option value="united-states">United States</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <th><label for="terms">I agree to the terms</label></th>
+                <td><input type="checkbox" id="terms" name="terms" required></td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <button type="submit" id="signupButton">Sign Up</button>
+                    <button type="reset" id="signupResetButton">Reset</button>
+                </td>
+            </tr>
+        </table>
+    </form>
+
+    <p><a href="LoginForm.html">Already have an account? Login here</a></p>
+</body>
+</html>
