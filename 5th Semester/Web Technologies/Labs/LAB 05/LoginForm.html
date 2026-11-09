@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Login</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>User Login</h1>
+
+    <!-- This form allows an existin user to login to the Website -->
+    <form id="loginForm" action="#" >
+        <table>
+            <tr>
+                <th><label for="email">Email</label></th>
+                <td><input type="email" id="email" name="email" required></td>
+            </tr>
+            <tr>
+                <th><label for="password">Password</label></th>
+                <td><input type="password" id="password" name="password" required></td>
+            </tr>
+            <tr>
+                <th><label for="rememberMe">Remember me</label></th>
+                <td><input type="checkbox" id="rememberMe" name="rememberMe"></td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <button type="submit" id="loginButton">Login</button>
+                    <button type="reset" id="loginResetButton">Reset</button>
+                </td>
+            </tr>
+        </table>
+    </form>
+
+    <p><a href="#">Forgot Password?</a></p>
+    <p><a href="SignupForm.html">Don't have an account? Sign up here</a></p>
+</body>
+</html>
