@@ -1,0 +1,385 @@
+================================================================================
+
+               LAB 07: QUERY EXECUTION STATISTICS SUMMARY
+
+================================================================================
+
+
+
+--------------------------------------------------------------------------------
+
+SCALE 1 DATASET (1,000 STUDENTS) - UN-INDEXED BASELINE
+
+--------------------------------------------------------------------------------
+
+
+
+[Task 1] Simple Filter (Students enrolled in 2023)
+
+  - Rows Returned         : 247
+
+  - Parse & Compile Time : 18 ms
+
+  - Execution Time        : 1 ms
+
+  - Total Time            : 19 ms
+
+
+
+[Task 2] Simple Join & Filter (Students taught by Teacher ID 50)
+
+  - Rows Returned         : 31
+
+  - Parse & Compile Time : 73 ms
+
+  - Execution Time        : 18 ms
+
+  - Total Time            : 91 ms
+
+
+
+[Task 3] Multi-Join with Text Search (Teachers with 'Advanced' courses)
+
+  - Rows Returned         : 0
+
+  - Parse & Compile Time : 41 ms
+
+  - Execution Time        : 0 ms
+
+  - Total Time            : 41 ms
+
+
+
+[Task 4] Join with Aggregation (Course count per Department)
+
+  - Rows Returned         : 10
+
+  - Parse & Compile Time : 22 ms
+
+  - Execution Time        : 5 ms
+
+  - Total Time            : 27 ms
+
+
+
+[Task 5] Complex Join, Aggregation & Top 10 (Spring 2025 Top Students)
+
+  - Rows Returned         : 10
+
+  - Parse & Compile Time : 54 ms
+
+  - Execution Time        : 4 ms
+
+  - Total Time            : 58 ms
+
+
+
+RECORDING TABLE (SCALE 1):
+
+Query ID   | Description                        | Execution Time (ms)
+
+-----------+------------------------------------+--------------------
+
+Query 1    | Simple Filter (WHERE)              | 1 ms
+
+Query 2    | Simple Join & Filter               | 18 ms
+
+Query 3    | Multi-Join with Text Search        | 0 ms
+
+Query 4    | Join with GROUP BY                 | 5 ms
+
+Query 5    | Complex Join, AVG, GROUP BY, TOP   | 4 ms
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+SCALE 2 DATASET (10,000 STUDENTS) - UN-INDEXED BASELINE
+
+--------------------------------------------------------------------------------
+
+
+
+[Task 1] Simple Filter (Students enrolled in 2023)
+
+  - Rows Returned         : 2451
+
+  - Parse & Compile Time : 65 ms
+
+  - Execution Time        : 130 ms
+
+  - Total Time            : 195 ms
+
+
+
+[Task 2] Simple Join & Filter (Students taught by Teacher ID 50)
+
+  - Rows Returned         : 410
+
+  - Parse & Compile Time : 246 ms
+
+  - Execution Time        : 36 ms
+
+  - Total Time            : 282 ms
+
+
+
+[Task 3] Multi-Join with Text Search (Teachers with 'Advanced' courses)
+
+  - Rows Returned         : 0
+
+  - Parse & Compile Time : 19 ms
+
+  - Execution Time        : 0 ms
+
+  - Total Time            : 19 ms
+
+
+
+[Task 4] Join with Aggregation (Course count per Department)
+
+  - Rows Returned         : 10
+
+  - Parse & Compile Time : 7 ms
+
+  - Execution Time        : 6 ms
+
+  - Total Time            : 13 ms
+
+
+
+[Task 5] Complex Join, Aggregation & Top 10 (Spring 2025 Top Students)
+
+  - Rows Returned         : 10
+
+  - Parse & Compile Time : 95 ms
+
+  - Execution Time        : 42 ms
+
+  - Total Time            : 137 ms
+
+
+
+RECORDING TABLE (SCALE 2):
+
+Query ID   | Description                        | Execution Time (ms)
+
+-----------+------------------------------------+--------------------
+
+Query 1    | Simple Filter (WHERE)              | 130 ms
+
+Query 2    | Simple Join & Filter               | 36 ms
+
+Query 3    | Multi-Join with Text Search        | 0 ms
+
+Query 4    | Join with GROUP BY                 | 6 ms
+
+Query 5    | Complex Join, AVG, GROUP BY, TOP   | 42 ms
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+SCALE 3 DATASET (100,000 STUDENTS) - UN-INDEXED BASELINE
+
+--------------------------------------------------------------------------------
+
+
+
+[Task 1] Simple Filter (Students enrolled in 2023)
+
+  - Rows Returned         : 25031
+
+  - Parse & Compile Time : 84 ms
+
+  - Execution Time        : 349 ms
+
+  - Total Time            : 433 ms
+
+
+
+[Task 2] Simple Join & Filter (Students taught by Teacher ID 50)
+
+  - Rows Returned         : 20713
+
+  - Parse & Compile Time : 712 ms
+
+  - Execution Time        : 517 ms
+
+  - Total Time            : 1229 ms
+
+
+
+[Task 3] Multi-Join with Text Search (Teachers with 'Advanced' courses)
+
+  - Rows Returned         : 0
+
+  - Parse & Compile Time : 40 ms
+
+  - Execution Time        : 0 ms
+
+  - Total Time            : 40 ms
+
+
+
+[Task 4] Join with Aggregation (Course count per Department)
+
+  - Rows Returned         : 10
+
+  - Parse & Compile Time : 20 ms
+
+  - Execution Time        : 3 ms
+
+  - Total Time            : 23 ms
+
+
+
+[Task 5] Complex Join, Aggregation & Top 10 (Spring 2025 Top Students)
+
+  - Rows Returned         : 10
+
+  - Parse & Compile Time : 618 ms
+
+  - Execution Time        : 292 ms
+
+  - Total Time            : 910 ms
+
+
+
+RECORDING TABLE (SCALE 3):
+
+Query ID   | Description                        | Execution Time (ms)
+
+-----------+------------------------------------+--------------------
+
+Query 1    | Simple Filter (WHERE)              | 349 ms
+
+Query 2    | Simple Join & Filter               | 517 ms
+
+Query 3    | Multi-Join with Text Search        | 0 ms
+
+Query 4    | Join with GROUP BY                 | 3 ms
+
+Query 5    | Complex Join, AVG, GROUP BY, TOP   | 292 ms
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+SCALE 4 DATASET (1,000,000 STUDENTS) - UN-INDEXED BASELINE
+
+--------------------------------------------------------------------------------
+
+
+
+[Task 1] Simple Filter (Students enrolled in 2023)
+
+  - Rows Returned         : 250139
+
+  - Parse & Compile Time : 323 ms
+
+  - Execution Time        : 2569 ms
+
+  - Total Time            : 2892 ms
+
+
+
+[Task 2] Simple Join & Filter (Students taught by Teacher ID 50)
+
+  - Rows Returned         : 37506
+
+  - Parse & Compile Time : 1055 ms
+
+  - Execution Time        : 744 ms
+
+  - Total Time            : 1799 ms
+
+
+
+[Task 3] Multi-Join with Text Search (Teachers with 'Advanced' courses)
+
+  - Rows Returned         : 0
+
+  - Parse & Compile Time : 16 ms
+
+  - Execution Time        : 0 ms
+
+  - Total Time            : 16 ms
+
+
+
+[Task 4] Join with Aggregation (Course count per Department)
+
+  - Rows Returned         : 10
+
+  - Parse & Compile Time : 8 ms
+
+  - Execution Time        : 3 ms
+
+  - Total Time            : 11 ms
+
+
+
+[Task 5] Complex Join, Aggregation & Top 10 (Spring 2025 Top Students)
+
+  - Rows Returned         : 10
+
+  - Parse & Compile Time : 455 ms
+
+  - Execution Time        : 1874 ms
+
+  - Total Time            : 2329 ms
+
+
+
+RECORDING TABLE (SCALE 4 - UN-INDEXED):
+
+Query ID   | Description                        | Execution Time (ms)
+
+-----------+------------------------------------+--------------------
+
+Query 1    | Simple Filter (WHERE)              | 2569 ms
+
+Query 2    | Simple Join & Filter               | 744 ms
+
+Query 3    | Multi-Join with Text Search        | 0 ms
+
+Query 4    | Join with GROUP BY                 | 3 ms
+
+Query 5    | Complex Join, AVG, GROUP BY, TOP   | 1874 ms
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+SCALE 4 DATASET (1,000,000 STUDENTS) - POST-INDEXING MEASUREMENTS
+
+--------------------------------------------------------------------------------
+
+
+
+RECORDING TABLE (SCALE 4 - INDEXED):
+
+Query ID   | Description                        | Execution Time (ms)
+
+-----------+------------------------------------+--------------------
+
+Query 1    | Simple Filter (WHERE)              | ms
+
+Query 2    | Simple Join & Filter               | ms
+
+Query 3    | Multi-Join with Text Search        | ms
+
+Query 4    | Join with GROUP BY                 | ms
+
+Query 5    | Complex Join, AVG, GROUP BY, TOP   | ms
+
+================================================================================
