@@ -1,0 +1,15 @@
+RollNo,StudentName,Department,Email,City,CoursesEnrolled,TotalCreditHours,TuitionFee,PaidAmount,FeeStatus,PenaltyFee,OutstandingBalance
+23F-0101,Ayesha Khan,CS,23f0101@icds.edu.pk,Lahore,3,9,185000,185000,Paid,0,0
+23F-0102,Muhammad Ali Raza,CS,23f0102@icds.edu.pk,Karachi,3,8,185000,120000,Partial,1500,65000
+23F-0103,Fatima Noor,SE,23f0103@icds.edu.pk,Islamabad,3,9,178000,178000,Paid,0,0
+23F-0104,Hamza Tariq,CS,23f0104@icds.edu.pk,Lahore,3,9,185000,90000,Partial,2500,95000
+23F-0105,Zainab Hussain,DS,23f0105@icds.edu.pk,Multan,3,9,192000,192000,Paid,0,0
+23F-0106,Usman Farooq,SE,23f0106@icds.edu.pk,Faisalabad,2,6,178000,100000,Partial,0,78000
+23F-0107,Hira Shahid,DS,23f0107@icds.edu.pk,Lahore,3,8,192000,192000,Paid,1000,0
+23F-0108,Bilal Ahmed,CS,23f0108@icds.edu.pk,Rawalpindi,3,8,185000,185000,Paid,5000,0
+23F-0109,Maryam Iqbal,SE,23f0109@icds.edu.pk,Karachi,3,9,178000,0,Unpaid,0,178000
+23F-0110,Ahmed Hassan,DS,23f0110@icds.edu.pk,Peshawar,2,6,192000,150000,Partial,500,42000
+23F-0111,Sana Javed,CS,23f0111@icds.edu.pk,Lahore,3,9,185000,185000,Paid,0,0
+23F-0112,Omer Siddiqui,SE,23f0112@icds.edu.pk,Sialkot,3,9,178000,178000,Paid,0,0
+23F-0113,Iqra Aslam,DS,23f0113@icds.edu.pk,Quetta,0,0,192000,96000,Partial,2000,96000
+23F-0114,Saad Malik,CS,23f0114@icds.edu.pk,Lahore,0,0,185000,185000,Paid,0,0
